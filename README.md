@@ -1,1 +1,1 @@
-# AnDan_CompLing_Project
+Проект для курса "Анализ данных"
